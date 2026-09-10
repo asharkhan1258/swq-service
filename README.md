@@ -1,1 +1,1 @@
-# swq-service
+# thehorizonnetwork
